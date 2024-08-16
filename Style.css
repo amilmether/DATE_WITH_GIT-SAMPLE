@@ -1,6 +1,25 @@
-body{
-    background-color:black ;
-
+.social-icons{
+	padding:30px;
+	background-color:#00506b;
+  text-align: center;
 }
-##Am amil mether
-#new
+.social-icons a{
+	color:#fff;
+  line-height:30px;
+  font-size:30px;
+  margin: 0 5px;
+  text-decoration:none;
+  
+}
+.social-icons a i{
+	line-height:30px;
+  font-size:30px;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1); 
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1); 
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1);
+  transition: all 200ms ease-in;
+  transform: scale(1);
+}
